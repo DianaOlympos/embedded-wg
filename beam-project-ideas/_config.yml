@@ -1,0 +1,7 @@
+title: ErlEF Project Ideas
+description: A list of projects that the Erlang Ecosystem Foundation membership would like to see tackled
+theme: jekyll-theme-cayman
+
+# TODO: make the table use this
+collections:
+  - project_ideas
